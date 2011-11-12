@@ -1,0 +1,39 @@
+H/W path             Device     Class       Description
+=======================================================
+                                system      ()
+/0                              bus         DG41MJ
+/0/0                            memory      64KiB BIOS
+/0/4                            processor   Intel(R) Core(TM)2 Duo CPU     E8400  @ 3.00GHz
+/0/4/5                          memory      32KiB L1 cache
+/0/4/6                          memory      6MiB L2 cache
+/0/4/1.1                        processor   Logical CPU
+/0/4/1.2                        processor   Logical CPU
+/0/2a                           memory      4GiB System Memory
+/0/2a/0                         memory      2GiB DIMM DDR2 Synchronous 800 MHz (1,2 ns)
+/0/2a/1                         memory      2GiB DIMM DDR2 Synchronous 800 MHz (1,2 ns)
+/0/1                            processor   
+/0/1/1.1                        processor   Logical CPU
+/0/1/1.2                        processor   Logical CPU
+/0/100                          bridge      4 Series Chipset DRAM Controller
+/0/100/1                        bridge      4 Series Chipset PCI Express Root Port
+/0/100/2                        display     4 Series Chipset Integrated Graphics Controller
+/0/100/2.1                      display     4 Series Chipset Integrated Graphics Controller
+/0/100/1b                       multimedia  82801G (ICH7 Family) High Definition Audio Controller
+/0/100/1c                       bridge      82801G (ICH7 Family) PCI Express Port 1
+/0/100/1c.1                     bridge      82801G (ICH7 Family) PCI Express Port 2
+/0/100/1c.1/0        eth0       network     RTL8111/8168B PCI Express Gigabit Ethernet controller
+/0/100/1d                       bus         82801G (ICH7 Family) USB UHCI Controller #1
+/0/100/1d.1                     bus         82801G (ICH7 Family) USB UHCI Controller #2
+/0/100/1d.2                     bus         82801G (ICH7 Family) USB UHCI Controller #3
+/0/100/1d.3                     bus         82801G (ICH7 Family) USB UHCI Controller #4
+/0/100/1d.7                     bus         82801G (ICH7 Family) USB2 EHCI Controller
+/0/100/1e                       bridge      82801 PCI Bridge
+/0/100/1f                       bridge      82801GB/GR (ICH7 Family) LPC Interface Bridge
+/0/100/1f.1                     storage     82801G (ICH7 Family) IDE Controller
+/0/100/1f.2          scsi2      storage     82801GB/GR/GH (ICH7 Family) SATA IDE Controller
+/0/100/1f.2/0.0.0    /dev/sda   disk        160GB Hitachi HTS54321
+/0/100/1f.2/0.0.0/1  /dev/sda1  volume      1023KiB EFI partition
+/0/100/1f.2/0.0.0/2  /dev/sda2  volume      149GiB Data partition
+/0/100/1f.3                     bus         82801G (ICH7 Family) SMBus Controller
+/0/2                 scsi4      storage     
+/0/2/0.0.0           /dev/sdb   disk        SCSI Disk

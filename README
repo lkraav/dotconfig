@@ -1,0 +1,134 @@
+H/W path         Device     Class       Description
+===================================================
+                            system      P55M-UD2 ()
+/0                          bus         P55M-UD2
+/0/0                        memory      128KiB BIOS
+/0/4                        processor   Intel(R) Core(TM) i5 CPU         750  @ 2.67GHz
+/0/4/a                      memory      64KiB L1 cache
+/0/4/b                      memory      8MiB L2 cache
+/0/4/0.1                    processor   Logical CPU
+/0/4/0.2                    processor   Logical CPU
+/0/4/0.3                    processor   Logical CPU
+/0/4/0.4                    processor   Logical CPU
+/0/4/0.5                    processor   Logical CPU
+/0/4/0.6                    processor   Logical CPU
+/0/4/0.7                    processor   Logical CPU
+/0/4/0.8                    processor   Logical CPU
+/0/4/0.9                    processor   Logical CPU
+/0/4/0.a                    processor   Logical CPU
+/0/4/0.b                    processor   Logical CPU
+/0/4/0.c                    processor   Logical CPU
+/0/4/0.d                    processor   Logical CPU
+/0/4/0.e                    processor   Logical CPU
+/0/4/0.f                    processor   Logical CPU
+/0/4/0.10                   processor   Logical CPU
+/0/19                       memory      8GiB System Memory
+/0/19/0                     memory      2GiB DIMM 1333 MHz (0,8 ns)
+/0/19/1                     memory      2GiB DIMM 1333 MHz (0,8 ns)
+/0/19/2                     memory      2GiB DIMM 1333 MHz (0,8 ns)
+/0/19/3                     memory      2GiB DIMM 1333 MHz (0,8 ns)
+/0/1                        processor   
+/0/1/2.1                    processor   Logical CPU
+/0/1/2.2                    processor   Logical CPU
+/0/1/2.3                    processor   Logical CPU
+/0/1/2.4                    processor   Logical CPU
+/0/1/2.5                    processor   Logical CPU
+/0/1/2.6                    processor   Logical CPU
+/0/1/2.7                    processor   Logical CPU
+/0/1/2.8                    processor   Logical CPU
+/0/1/2.9                    processor   Logical CPU
+/0/1/2.a                    processor   Logical CPU
+/0/1/2.b                    processor   Logical CPU
+/0/1/2.c                    processor   Logical CPU
+/0/1/2.d                    processor   Logical CPU
+/0/1/2.e                    processor   Logical CPU
+/0/1/2.f                    processor   Logical CPU
+/0/1/2.10                   processor   Logical CPU
+/0/2                        processor   
+/0/2/4.1                    processor   Logical CPU
+/0/2/4.2                    processor   Logical CPU
+/0/2/4.3                    processor   Logical CPU
+/0/2/4.4                    processor   Logical CPU
+/0/2/4.5                    processor   Logical CPU
+/0/2/4.6                    processor   Logical CPU
+/0/2/4.7                    processor   Logical CPU
+/0/2/4.8                    processor   Logical CPU
+/0/2/4.9                    processor   Logical CPU
+/0/2/4.a                    processor   Logical CPU
+/0/2/4.b                    processor   Logical CPU
+/0/2/4.c                    processor   Logical CPU
+/0/2/4.d                    processor   Logical CPU
+/0/2/4.e                    processor   Logical CPU
+/0/2/4.f                    processor   Logical CPU
+/0/2/4.10                   processor   Logical CPU
+/0/3                        processor   
+/0/3/6.1                    processor   Logical CPU
+/0/3/6.2                    processor   Logical CPU
+/0/3/6.3                    processor   Logical CPU
+/0/3/6.4                    processor   Logical CPU
+/0/3/6.5                    processor   Logical CPU
+/0/3/6.6                    processor   Logical CPU
+/0/3/6.7                    processor   Logical CPU
+/0/3/6.8                    processor   Logical CPU
+/0/3/6.9                    processor   Logical CPU
+/0/3/6.a                    processor   Logical CPU
+/0/3/6.b                    processor   Logical CPU
+/0/3/6.c                    processor   Logical CPU
+/0/3/6.d                    processor   Logical CPU
+/0/3/6.e                    processor   Logical CPU
+/0/3/6.f                    processor   Logical CPU
+/0/3/6.10                   processor   Logical CPU
+/0/100                      bridge      Core Processor DMI
+/0/100/3                    bridge      Core Processor PCI Express Root Port 1
+/0/100/3/0                  display     GT200 [GeForce 210]
+/0/100/3/0.1                multimedia  High Definition Audio Controller
+/0/100/8                    generic     Core Processor System Management Registers
+/0/100/8.1                  generic     Core Processor Semaphore and Scratchpad Registers
+/0/100/8.2                  generic     Core Processor System Control and Status Registers
+/0/100/8.3                  generic     Core Processor Miscellaneous Registers
+/0/100/10                   generic     Core Processor QPI Link
+/0/100/10.1                 generic     Core Processor QPI Routing and Protocol Registers
+/0/100/1a                   bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1a.1                 bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1a.2                 bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1a.7                 bus         5 Series/3400 Series Chipset USB2 Enhanced Host Controller
+/0/100/1b                   multimedia  5 Series/3400 Series Chipset High Definition Audio
+/0/100/1c                   bridge      5 Series/3400 Series Chipset PCI Express Root Port 1
+/0/100/1c/0                 display     NV43 [GeForce 6600]
+/0/100/1c.4                 bridge      5 Series/3400 Series Chipset PCI Express Root Port 5
+/0/100/1c.4/0               storage     JMB362/JMB363 Serial ATA Controller
+/0/100/1c.4/0.1             storage     JMB362/JMB363 Serial ATA Controller
+/0/100/1c.5                 bridge      5 Series/3400 Series Chipset PCI Express Root Port 6
+/0/100/1c.5/0    eth0       network     RTL8111/8168B PCI Express Gigabit Ethernet controller
+/0/100/1d                   bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1d.1                 bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1d.2                 bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1d.3                 bus         5 Series/3400 Series Chipset USB Universal Host Controller
+/0/100/1d.7                 bus         5 Series/3400 Series Chipset USB2 Enhanced Host Controller
+/0/100/1e                   bridge      82801 PCI Bridge
+/0/100/1e/2      eth1       network     SK-9871 V2.0 Gigabit Ethernet 1000Base-ZX Adapter, PCI64, Fiber ZX/SC
+/0/100/1e/7                 bus         TSB43AB23 IEEE-1394a-2000 Controller (PHY/Link)
+/0/100/1f                   bridge      5 Series Chipset LPC Interface Controller
+/0/100/1f.2      scsi0      storage     5 Series/3400 Series Chipset 6 port SATA AHCI Controller
+/0/100/1f.2/0    /dev/sda   disk        160GB Hitachi HTS54161
+/0/100/1f.2/0/1  /dev/sda1  volume      64GiB Linux raid autodetect partition
+/0/100/1f.2/0/2  /dev/sda2  volume      85GiB Linux filesystem partition
+/0/100/1f.2/1    /dev/sdb   disk        160GB ST9160310AS
+/0/100/1f.2/1/1  /dev/sdb1  volume      64GiB Linux raid autodetect partition
+/0/100/1f.2/1/2  /dev/sdb2  volume      85GiB Linux filesystem partition
+/0/100/1f.3                 bus         5 Series/3400 Series Chipset SMBus Controller
+/0/101                      bridge      Core Processor QuickPath Architecture Generic Non-Core Registers
+/0/102                      bridge      Core Processor QuickPath Architecture System Address Decoder
+/0/103                      bridge      Core Processor QPI Link 0
+/0/104                      bridge      Core Processor QPI Physical 0
+/0/105                      bridge      Core Processor Integrated Memory Controller
+/0/106                      bridge      Core Processor Integrated Memory Controller Target Address Decoder
+/0/107                      bridge      Core Processor Integrated Memory Controller Test Registers
+/0/108                      bridge      Core Processor Integrated Memory Controller Channel 0 Control Registers
+/0/109                      bridge      Core Processor Integrated Memory Controller Channel 0 Address Registers
+/0/10a                      bridge      Core Processor Integrated Memory Controller Channel 0 Rank Registers
+/0/10b                      bridge      Core Processor Integrated Memory Controller Channel 0 Thermal Control Registers
+/0/10c                      bridge      Core Processor Integrated Memory Controller Channel 1 Control Registers
+/0/10d                      bridge      Core Processor Integrated Memory Controller Channel 1 Address Registers
+/0/10e                      bridge      Core Processor Integrated Memory Controller Channel 1 Rank Registers
+/0/10f                      bridge      Core Processor Integrated Memory Controller Channel 1 Thermal Control Registers
